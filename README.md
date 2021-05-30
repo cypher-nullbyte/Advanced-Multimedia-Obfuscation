@@ -11,7 +11,7 @@ Steganography is easy to analyze and get the result if we’ve the Image (there 
 To counter this given problem we’ve used Visual Cryptography on top of Steganography to make MITM Attack or spoofing more difficult.
 
 ### Project Architecture & Structure
-![image](https://i.imgur.com/nh0J1Sn.png)
+![image](./architecture.png)
 
 #### Project Structure Description
 | File          | Description                                               |
