@@ -11,7 +11,7 @@ Steganography is easy to analyze and get the result if we’ve the Image (there 
 To counter this given problem we’ve used Visual Cryptography on top of Steganography to make MITM Attack or spoofing more difficult.
 
 ### Project Architecture & Structure
-![image](./architecture.png)
+![image](https://raw.githubusercontent.com/cypher-nullbyte/Advanced-Multimedia-Obfuscation/master/architecture.png?token=APLNSCC7CWGYFLI7VQKXKVLAXSZNS)
 
 #### Project Structure Description
 | File          | Description                                               |
