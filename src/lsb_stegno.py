@@ -52,7 +52,7 @@ def modPix(pix, msg):
         yield pix[0:3]
         yield pix[3:6]
         yield pix[6:9]
-
+        
 def encode_enc(new_img, msg):
     w = new_img.size[0]
     (x, y) = (0, 0)
@@ -67,7 +67,7 @@ def encode_enc(new_img, msg):
             y += 1
         else:
             x += 1
-    print(list(new_img.getdata())[:15])
+    # print(list(new_img.getdata())[:15])
 
 # Encode msg into image
 def lsb_encode(msg):
